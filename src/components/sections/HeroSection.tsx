@@ -31,7 +31,7 @@ const HeroSection = () => {
               台中西區體態管理
               <span className="block text-primary mt-2">Young Sky 私人教練工作室</span>
               <span className="block text-2xl md:text-3xl font-medium text-charcoal-light mt-4">
-                啟動你的理想生活
+                
               </span>
             </h1>
           </motion.div>
@@ -42,9 +42,9 @@ const HeroSection = () => {
             transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
             className="text-lg md:text-xl text-charcoal-light leading-relaxed mb-8 max-w-2xl"
           >
-            別再盲目節食或無效運動了。Young Sky 專注於
+            Young Sky 專注於
             <strong className="text-primary">「70% 飲食管理＋30% 阻力訓練」</strong>
-            的黃金比例，為台中西區的上班族與初學者打造專屬方案。我們不賣誇張的速成奇蹟，只提供科學、可執行的生活習慣調整。
+            的黃金比例，為上班族與初學者打造專屬方案，提供科學、可執行的生活習慣調整。
           </motion.p>
 
           <motion.div
